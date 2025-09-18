@@ -1,0 +1,31 @@
+# Jekyll configuration for SLUG website
+title: "SLUG - Stockholm Lean User Group"
+description: "Stockholm Lean User Group - A community for Lean theorem proving enthusiasts"
+baseurl: ""
+url: "https://sinhp.github.io/slug"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Social links
+github_username: sinhp
+
+# Collections for future content
+collections:
+  meetings:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "meetings"
+    values:
+      layout: "meeting"
