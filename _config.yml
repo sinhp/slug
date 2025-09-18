@@ -4,11 +4,11 @@ description: "Stockholm Lean User Group - A community for Lean theorem proving e
 baseurl: ""
 url: "https://sinhp.github.io/slug"
 
+theme: jekyll-theme-minimal
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-theme: minima
 
 # Social links
 github_username: sinhp
