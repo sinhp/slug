@@ -8,6 +8,8 @@ url: "https://sinhp.github.io/slug"
 markdown: kramdown
 highlighter: rouge
 
+theme: minima
+
 # Social links
 github_username: sinhp
 
