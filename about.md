@@ -1,46 +1,36 @@
 ---
 layout: page
-title: About SLUG
+title: SLUG (Stockholm Lean User Group
 permalink: /about/
 ---
 
-# About the Stockholm Lean User Group
+### What
 
-The Stockholm Lean User Group (SLUG) is a community dedicated to exploring and advancing the use of the Lean theorem prover and formal mathematics in the Stockholm area and beyond.
+A reading group run by [Yaël Dillies](https://www.su.se/english/profiles/yadi8568-1.745057) and me, where we discuss different aspects of interactive theorem proving, programming, and metaprogramming in Lean.
 
-## What is Lean?
+Everyone is welcome to join! More experienced users are welcome to propose projects in formalization, programming, or metaprogramming.
 
-Lean is a modern theorem prover and functional programming language developed by Leonardo de Moura at Microsoft Research. It combines:
+If you are curious about Lean but don’t have much experience, you’re also welcome — this is a great learning opportunity, and we’re open to all levels.
 
-- **Interactive theorem proving**: Write mathematical proofs that are mechanically verified
-- **Functional programming**: A powerful programming language with dependent types
-- **Mathematical library**: Extensive formalization of mathematics through Mathlib
-- **Educational tool**: Increasingly used in mathematics education
+### Where
 
-## Our Mission
+The Mathematics Department, Stockholm University
 
-SLUG aims to:
+See the location on [Open Street Map](https://www.openstreetmap.org/?mlat=59.35472&mlon=18.05553#map=18/59.354720/18.055530).
 
-- Foster a community of Lean users in Stockholm and Sweden
-- Share knowledge and best practices in formal mathematics
-- Organize workshops, talks, and collaborative projects
-- Support newcomers learning Lean and formal verification
-- Connect with the broader international Lean community
+### When
 
-## Community Projects
+| Vecka  | Datum       | Tid             | Lokal                                |
+|--------|-------------|------------------|---------------------------------------|
+| v 41   | 2025-10-09  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 42   | 2025-10-16  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 43   | 2025-10-23  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 44   | 2025-10-30  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 45   | 2025-11-06  | 14:00 - 17:00    | Mötesrum 9, Albano Hus 1, Vån 2                        |
+| v 46   | 2025-11-13  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 47   | 2025-11-20  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 48   | 2025-11-27  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 49   | 2025-12-04  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 50   | 2025-12-11  | 14:00 - 17:00    | Mötesrum 11 - Kovalevskyrummet, Albano Hus 1, Vån 3     |
 
-Our members are actively working on various formalization projects in Lean 4, including:
-
-- **Category Theory**: Formalizations of fibred categories, displayed categories, and polynomial functors
-- **Mathematical Foundations**: Groupoid models and higher-categorical structures
-- **Education**: Course materials and proof laboratories for teaching formal methods
-
-## Join Us
-
-Whether you're a mathematician, computer scientist, student, or simply curious about formal verification, you're welcome to join SLUG! We welcome all levels of experience, from complete beginners to advanced users.
-
-## History
-
-SLUG was established to create a local hub for the growing international Lean community. The group draws inspiration from similar user groups around the world and aims to contribute to the advancement of formal mathematics.
-
-For more information or to get involved, please don't hesitate to reach out to us!
+__BYOLoL (Bring Your Own Lean on a Laptop)__
