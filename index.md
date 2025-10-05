@@ -1,59 +1,36 @@
 ---
-layout: default
+layout: page
+title: SLUG (Stockholm Lean User Group
+permalink: /about/
 ---
 
-<div class="home">
-  <h1 class="page-heading">SLUG - Stockholm Lean User Group</h1>
-  
-  <div class="intro">
-    <p>Welcome to the Stockholm Lean User Group (SLUG)! We are a community of enthusiasts interested in the <a href="https://lean-lang.org/">Lean theorem prover</a> and formal mathematics.</p>
-    
-    <p>Lean is a modern theorem prover and programming language developed by Microsoft Research. It's designed to make formal verification more accessible and is increasingly used in mathematics research and education.</p>
-  </div>
+### What
 
-  <h2>About SLUG</h2>
-  <p>The Stockholm Lean User Group brings together researchers, students, and practitioners interested in:</p>
-  <ul>
-    <li>Formal mathematics and theorem proving</li>
-    <li>The Lean programming language and proof assistant</li>
-    <li>Mathematical formalization projects</li>
-    <li>Educational applications of formal methods</li>
-  </ul>
+A reading group run by [Yaël Dillies](https://www.su.se/english/profiles/yadi8568-1.745057) and me, where we discuss different aspects of interactive theorem proving, programming, and metaprogramming in Lean.
 
-  <h2>Getting Started with Lean</h2>
-  <p>New to Lean? Here are some great resources to get started:</p>
-  <ul>
-    <li><a href="https://lean-lang.org/">Official Lean website</a></li>
-    <li><a href="https://leanprover-community.github.io/">Lean Community</a></li>
-    <li><a href="https://leanprover.github.io/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></li>
-    <li><a href="https://github.com/leanprover-community/mathlib4">Mathlib - Lean's mathematical library</a></li>
-  </ul>
+Everyone is welcome to join! More experienced users are welcome to propose projects in formalization, programming, or metaprogramming.
 
-  <h2>Contact</h2>
-  <p>Interested in joining SLUG or learning more? Feel free to reach out!</p>
-  
-  <h2>Related Projects</h2>
-  <p>Check out some Lean-related projects by our community members:</p>
-  <ul>
-    <li><a href="https://github.com/sinhp/groupoid_model_in_lean4">Groupoid Model in Lean4</a></li>
-    <li><a href="https://github.com/sinhp/Poly">Polynomial Functors in Lean4</a></li>
-    <li><a href="https://github.com/sinhp/LeanFibredCategories">Fibred Categories in Lean4</a></li>
-    <li><a href="https://github.com/sinhp/displayed_categories">Displayed Categories in Lean4</a></li>
-  </ul>
+If you are curious about Lean but don’t have much experience, you’re also welcome — this is a great learning opportunity, and we’re open to all levels.
 
-  {% if site.posts.size > 0 %}
-  <h2>Latest News</h2>
-  <ul class="post-list">
-    {% for post in site.posts limit: 5 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-</div>
+### Where
+
+The Mathematics Department, Stockholm University
+
+See the location on [Open Street Map](https://www.openstreetmap.org/?mlat=59.35472&mlon=18.05553#map=18/59.354720/18.055530).
+
+### When
+
+| Vecka  | Datum       | Tid             | Lokal                                |
+|--------|-------------|------------------|---------------------------------------|
+| v 41   | 2025-10-09  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 42   | 2025-10-16  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 43   | 2025-10-23  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 44   | 2025-10-30  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 45   | 2025-11-06  | 14:00 - 17:00    | Mötesrum 9, Albano Hus 1, Vån 2                        |
+| v 46   | 2025-11-13  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 47   | 2025-11-20  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 48   | 2025-11-27  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 49   | 2025-12-04  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 50   | 2025-12-11  | 14:00 - 17:00    | Mötesrum 11 - Kovalevskyrummet, Albano Hus 1, Vån 3     |
+
+__BYOLoL (Bring Your Own Lean on a Laptop)__
