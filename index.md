@@ -1,7 +1,6 @@
 ---
 layout: page
 title: SLUG (Stockholm Lean User Group
-permalink: /about/
 ---
 
 ### What
