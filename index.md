@@ -5,11 +5,14 @@ title: SLUG (Stockholm Lean User Group
 
 ### What
 
-A reading group run by [Yaël Dillies](https://www.su.se/english/profiles/yadi8568-1.745057) and me, where we discuss different aspects of interactive theorem proving, programming, and metaprogramming in Lean.
+A reading group run by [Yaël Dillies](https://www.su.se/english/profiles/yadi8568-1.745057) and I,
+where we discuss different aspects of interactive theorem proving, programming, and metaprogramming in Lean.
 
-Everyone is welcome to join! More experienced users are welcome to propose projects in formalization, programming, or metaprogramming.
+Everyone is welcome to join!
+More experienced users are welcome to propose projects in formalization, programming, or metaprogramming.
 
-If you are curious about Lean but don’t have much experience, you’re also welcome — this is a great learning opportunity, and we’re open to all levels.
+If you are curious about Lean but don’t have much experience, you’re also welcome —
+this is a great learning opportunity, and we’re open to all levels.
 
 ### Where
 
@@ -19,8 +22,8 @@ See the location on [Open Street Map](https://www.openstreetmap.org/?mlat=59.354
 
 ### When
 
-| Vecka  | Datum       | Tid             | Lokal                                |
-|--------|-------------|------------------|---------------------------------------|
+| Vecka | Datum      | Tid           | Lokal                                                   |
+|-------|------------|---------------|---------------------------------------------------------|
 | v 41   | 2025-10-09  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
 | v 42   | 2025-10-16  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
 | v 43   | 2025-10-23  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
