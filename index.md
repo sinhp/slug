@@ -24,15 +24,26 @@ See the location on [Open Street Map](https://www.openstreetmap.org/?mlat=59.354
 
 | Vecka | Datum      | Tid           | Lokal                                                   |
 |-------|------------|---------------|---------------------------------------------------------|
-| v 41   | 2025-10-09  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 42   | 2025-10-16  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 43   | 2025-10-23  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 44   | 2025-10-30  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 45   | 2025-11-06  | 14:00 - 17:00    | Mötesrum 9, Albano Hus 1, Vån 2                        |
-| v 46   | 2025-11-13  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 47   | 2025-11-20  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 48   | 2025-11-27  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 49   | 2025-12-04  | 14:00 - 17:00    | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
-| v 50   | 2025-12-11  | 14:00 - 17:00    | Mötesrum 11 - Kovalevskyrummet, Albano Hus 1, Vån 3     |
+| v 5   | 2026-01-27 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 6   | 2026-02-03 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 7   | 2026-02-10 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 8   | 2026-02-17 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 9   | 2026-02-24 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 10  | 2026-03-03 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 11  | 2026-03-10 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 12  | 2026-03-17 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 13  | 2026-03-24 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 14  | 2026-03-31 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 15  | 2026-04-07 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 16  | 2026-04-14 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 17  | 2026-04-21 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 18  | 2026-04-28 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 19  | 2026-05-05 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 20  | 2026-05-12 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 21  | 2026-05-19 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 22  | 2026-05-26 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 23  | 2026-06-02 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 24  | 2026-06-09 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
+| v 25  | 2026-06-16 | 14:00 - 17:00 | Mötesrum 16 - Mittag-Lefflerrummet, Albano Hus 1, Vån 3 |
 
 __BYOLoL (Bring Your Own Lean on a Laptop)__
